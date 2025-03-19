@@ -363,7 +363,8 @@
       "Alligator": {
         "chat_message": "§aA long snout breaks the surface of the water. It's an Alligator!",
         "fishing_experience": 1250,
-        "rarity": "RARE"
+        "rarity": "LEGENDARY",
+        "rare": true
       },
       "Dumpster Diver": {
         "chat_message": "§aA Dumpster Diver has emerged from the swamp!",
@@ -405,7 +406,8 @@
       "Fiery Scuttler": {
         "chat_message": "§cA Fiery Scuttler inconspicuously waddles up to you, friends in tow.",
         "fishing_experience": 15000,
-        "rarity": "LEGENDARY"
+        "rarity": "LEGENDARY",
+        "rare": true
       }
     }
   },
@@ -421,7 +423,8 @@
       "Blue Ringed Octopus": {
         "chat_message": "§aA garish set of tentacles arise. It's a Blue Ringed Octopus!",
         "fishing_experience": 5000,
-        "rarity": "LEGENDARY"
+        "rarity": "LEGENDARY",
+        "rare": true
       },
       "Snapping Turtle": {
         "chat_message": "§aA Snapping Turtle is coming your way, and it's ANGRY!",
